@@ -1,4 +1,4 @@
-# api-plugin-shops
+# Custom shopes
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-shops.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-shops)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/api-plugin-shops.svg?style=svg)](https://circleci.com/gh/reactioncommerce/api-plugin-shops)
