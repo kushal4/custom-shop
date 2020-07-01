@@ -19,7 +19,7 @@ export default async function register(app) {
     version: pkg.version,
     collections: {
       Shops: {
-        name: "Shops",
+        name: "custom-shops",
         indexes: [
           // Create indexes. We set specific names for backwards compatibility
           // with indexes created by the aldeed:schema-index Meteor package.
